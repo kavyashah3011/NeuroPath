@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Python",
+        "category": "Programming"
+    },
+    {
+        "id": 2,
+        "name": "Java",
+        "category": "Programming"
+    },
+    {
+        "id": 3,
+        "name": "JavaScript",
+        "category": "Programming"
+    },
+    {
+        "id": 4,
+        "name": "HTML",
+        "category": "Frontend"
+    },
+    {
+        "id": 5,
+        "name": "CSS",
+        "category": "Frontend"
+    },
+    {
+        "id": 6,
+        "name": "React",
+        "category": "Frontend"
+    },
+    {
+        "id": 7,
+        "name": "Node.js",
+        "category": "Backend"
+    },
+    {
+        "id": 8,
+        "name": "FastAPI",
+        "category": "Backend"
+    },
+    {
+        "id": 9,
+        "name": "SQL",
+        "category": "Database"
+    },
+    {
+        "id": 10,
+        "name": "PostgreSQL",
+        "category": "Database"
+    },
+    {
+        "id": 11,
+        "name": "MongoDB",
+        "category": "Database"
+    },
+    {
+        "id": 12,
+        "name": "Machine Learning",
+        "category": "AI"
+    },
+    {
+        "id": 13,
+        "name": "Deep Learning",
+        "category": "AI"
+    },
+    {
+        "id": 14,
+        "name": "TensorFlow",
+        "category": "AI"
+    },
+    {
+        "id": 15,
+        "name": "PyTorch",
+        "category": "AI"
+    },
+    {
+        "id": 16,
+        "name": "Scikit-learn",
+        "category": "AI"
+    },
+    {
+        "id": 17,
+        "name": "Statistics",
+        "category": "Data"
+    },
+    {
+        "id": 18,
+        "name": "Pandas",
+        "category": "Data"
+    },
+    {
+        "id": 19,
+        "name": "NumPy",
+        "category": "Data"
+    },
+    {
+        "id": 20,
+        "name": "Data Visualization",
+        "category": "Data"
+    },
+    {
+        "id": 21,
+        "name": "Power BI",
+        "category": "Data"
+    },
+    {
+        "id": 22,
+        "name": "Tableau",
+        "category": "Data"
+    },
+    {
+        "id": 23,
+        "name": "Docker",
+        "category": "DevOps"
+    },
+    {
+        "id": 24,
+        "name": "Kubernetes",
+        "category": "DevOps"
+    },
+    {
+        "id": 25,
+        "name": "Linux",
+        "category": "DevOps"
+    },
+    {
+        "id": 26,
+        "name": "MLOps",
+        "category": "AI"
+    },
+    {
+        "id": 27,
+        "name": "NLP",
+        "category": "AI"
+    },
+    {
+        "id": 28,
+        "name": "Computer Vision",
+        "category": "AI"
+    },
+    {
+        "id": 29,
+        "name": "REST APIs",
+        "category": "Backend"
+    },
+    {
+        "id": 30,
+        "name": "Git",
+        "category": "Tools"
+    }
+]
